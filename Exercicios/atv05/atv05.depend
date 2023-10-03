@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1696286155 source:c:\dev\una\segunda\new folder\atv05\main.c
+	<stdio.h>
+	<stdlib.h>
+
