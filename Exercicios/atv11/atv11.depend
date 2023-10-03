@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1696341077 source:c:\dev\una\segunda\exercicios\atv11\main.c
+	<stdio.h>
+	<stdlib.h>
+

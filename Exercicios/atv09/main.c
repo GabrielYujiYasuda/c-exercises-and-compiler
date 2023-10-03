@@ -8,8 +8,15 @@ int main()
     //hipotenusa. OBS - Teorema de Pitágoras:
     //a2 = b2 + c2
 
-    float c = 1;
-    float b = 2;
+    float b;
+    float c;
+
+    printf("Digite o primeiro cateto: ");
+    scanf("%f", &b);
+
+    printf("Digite o segundo cateto: ");
+    scanf("%f", &c);
+
     float hipotenusa = sqrt(b * b + c * c);
 
     printf("%f", hipotenusa);
